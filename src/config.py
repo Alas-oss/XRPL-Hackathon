@@ -1,4 +1,3 @@
-"""Central settings. Edit the TODOs once you have seen the data."""
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
